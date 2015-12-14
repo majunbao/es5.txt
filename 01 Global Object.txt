@@ -1,0 +1,46 @@
+Global Object
+
+[[Writable]]: true;
+[[Enumerable]]: false;
+[[Configurable]]: true;
+
+{
+  // Value properties
+  NaN
+  Infinity
+  undefined
+
+  // function properties
+  eval(x)
+  parseInt (string , radix)
+  parseFloat (string)
+  isNaN (number)
+  isFinite (number)
+
+  //url handing function properties
+  decodeURI (encodedURI)
+  decodeURIComponent (encodedURIComponent)
+  encodeURI (uri)
+  encodeURIComponent (uriComponent)
+
+  //constructor properties
+  Object()
+  Function()
+  Array()
+  String()
+  Boolean()
+  Number()
+  Date()
+  RegExp()
+  Error()
+  EvalError()
+  RangeError()
+  ReferenceError()
+  SyntaxError()
+  TypeError()
+  URIError()
+
+  //other properties
+  Math
+  JSON
+}
